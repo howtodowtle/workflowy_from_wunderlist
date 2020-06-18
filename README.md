@@ -6,6 +6,8 @@
 
 Go to [wunderlist.com](https://www.wunderlist.com/). Wunderlist is now part of Microsoft and you can move your Wunderlist content to Microsoft To Do. Under "Get Microsoft To Do" button, click "export" and download your data.
 
+![Click the tiny "export" to get your data out of Wunderlist.](export_screenshot.png)
+
 Unzip your downloaded data and note the JSON file. For me, it was called `Tasks.json`.
 
 ### Prepare import
