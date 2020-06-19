@@ -10,6 +10,8 @@ Go to [wunderlist.com](https://www.wunderlist.com/). Wunderlist is now part of M
 
 Unzip your downloaded data and note the JSON file. For me, it was called `Tasks.json`.
 
+![This is how your exported JSON will look like.](images/json.png)
+
 ### Prepare import
 
 Write all your Wunderlist content in Workflowy-readable format:
