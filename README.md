@@ -16,9 +16,9 @@ Unzip your downloaded data and note the JSON file. For me, it was called `Tasks.
 
 Write all your Wunderlist content in Workflowy-readable format:
 
-`python3 workflowy_importer.py Tasks.json` (or your differently-named JSON)
+`python3 workflowy_importer.py ../Tasks.json` (or your differently-named JSON)
 
-(Alternatively send it to a file and copy from there `python3 workflowy_importer.py Tasks.json > workflowy_import.txt`.)
+(Alternatively send it to a file and copy from there `python3 workflowy_importer.py ../Tasks.json > workflowy_import.txt`.)
 
 ![Output of this program](images/output.png)
 
