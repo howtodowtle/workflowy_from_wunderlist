@@ -18,6 +18,10 @@ Write all your Wunderlist content in Workflowy-readable format:
 
 (Alternatively send it to a file and copy from there `python3 workflowy_importer.py Tasks.json > workflowy_import.txt`.)
 
+![Output of this program](output.png)
+
 ### Import to Workflowy
 
 Just copy the output of the previous command and paste it in Workflowy. If you already have other bullets in Workflowy I recommend to paste everything inside a bullet called "Wunderlist" and start sorting, moving, and deleting from there.
+
+![Output pasted to Workflowy](pasted.png)
