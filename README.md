@@ -2,7 +2,9 @@
 
 ## Why?
 
-Wunderlist has been part of Microsoft for a while and has been shut down on May 6, 2020. You can move your Wunderlist content to Microsoft To Do. If you want to transfer your data to Workflowy instead, use this script to create a Workflowy-readable version of your Wunderlist data that you can simply paste to Workflowy.
+Wunderlist was great but is dead. Workflowy is great and alive.
+
+Wunderlist has been part of Microsoft for a while and has been shut down since May 6, 2020. You can move your Wunderlist content to Microsoft To Do. If you want to transfer your data to Workflowy instead, use this script to create a Workflowy-readable version of your Wunderlist data that you can simply paste to Workflowy.
 
 ## How To
 
