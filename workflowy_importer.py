@@ -16,9 +16,9 @@ def read_file(filename: Optional[str] = None) -> list:
 def additional_info(task: dict, field: str, subfield: str, input_dict: dict) -> dict:
     f = task.get(field)
     if f:
-        for ff in f:
-            if ff.get(subfield):
-                input_dict.update({field: ff.get(subfield)})
+        input_dict.update({field: ff.get(subfield)
+                           for ff in f
+                           if ff.get(subfield)})
     return input_dict
 
 
